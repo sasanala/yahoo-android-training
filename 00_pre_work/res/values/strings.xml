@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleTodoList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="et_words">Enter new item</string>
+    <string name="btn_submit">submit</string>
+
+</resources>
