@@ -1,4 +1,4 @@
-# 00 - Tip Calculator
+# HomeWork 1: Tip Calculator
 
 ###Overview
 

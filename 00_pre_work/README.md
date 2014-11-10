@@ -1,9 +1,11 @@
-# 00 - Simple Todo List Demo
+# Pre-Work: Simple Todo List
 
-Features:
+###Features:
+
   * [x] add/remove items
   * [x] save/load items
 
-Walkthrough of all user stories:
+
+###Walkthrough of all user stories:
 
 ![Video Walkthrough](00_pre_work.gif)
