@@ -1,4 +1,4 @@
-# HomeWork 2: Instagram Photo Viewer
+# Homework 2: Instagram Photo Viewer
 
 ###Overview:
 
