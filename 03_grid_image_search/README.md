@@ -1,4 +1,4 @@
-# Homework 2: Instagram Photo Viewer
+# Homework 3: Grid Image Search
 
 ###Overview:
 
