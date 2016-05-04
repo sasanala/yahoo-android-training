@@ -24,7 +24,6 @@
 
 
 ### Links:
-  * [requirement](https://yahoo.jiveon.com/docs/DOC-3186)
   * [(video)Android Project 2: Grid Image Search](http://vimeo.com/70808495)
   * [android-async-http](https://www.dropbox.com/s/zqggkqv60zggyrt/android-async-http-1.4.5.jar?dl=1)
   * [picasso image](https://www.dropbox.com/s/25py1bmjr45936v/picasso-2.3.4.jar?dl=1)
